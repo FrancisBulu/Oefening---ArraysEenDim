@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening - ArraysEenDim", "Oefening - ArraysEenDim\Oefening - ArraysEenDim.csproj", "{405CE158-8580-4203-A1C1-0F37EDBBCA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405CE158-8580-4203-A1C1-0F37EDBBCA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405CE158-8580-4203-A1C1-0F37EDBBCA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405CE158-8580-4203-A1C1-0F37EDBBCA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405CE158-8580-4203-A1C1-0F37EDBBCA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566D269D-AE88-4BDC-A995-404D89B85FB6}
+	EndGlobalSection
+EndGlobal
